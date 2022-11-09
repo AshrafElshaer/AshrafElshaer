@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Invoice app](https://github.com/AshrafElshaer/invoice-app-redux)
 
-- 🌱 I’m currently learning **Redux , firebase**
+- 🌱 I’m currently learning **Typescript , Node js **
 
 - 👨‍💻 All of my projects are available at [https://ashrafelshaer.dev/](https://ashrafelshaer.dev/)
 
