@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafelshaer&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafelshaer" /> </p>
 
-- 🔭 I’m currently working on [Invoice app](https://github.com/AshrafElshaer/invoice-app-redux)
+- 🔭 I’m currently working on [REST API Server with TS](https://github.com/AshrafElshaer/e-commerce-server)
 
 - 🌱 I’m currently learning : Typescript , Node js
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Ashrafelshaer98@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ea8RXgpx8UFXgFJV5_Tfwy1pH6wJxoro/view?usp=sharing](https://drive.google.com/file/d/1ea8RXgpx8UFXgFJV5_Tfwy1pH6wJxoro/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ea8RXgpx8UFXgFJV5_Tfwy1pH6wJxoro/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
