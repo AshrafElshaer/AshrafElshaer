@@ -1,11 +1,11 @@
 <h1 align="center"> Ashraf Elshaer</h1>
-<h3 align="center">Experienced Front End Developer with
+<p align="center">Experienced Front End Developer with
 React and Next.js skills, creating elegant
 and responsive user interfaces. A
 proactive problem solver. I thrive in fast-
 paced environments, delivering scalable
 and high-performance applications on
-time and within budget.</h3>
+time and within budget.</p>
 
 <br />
 
