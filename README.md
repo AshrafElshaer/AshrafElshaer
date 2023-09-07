@@ -13,7 +13,7 @@ time and within budget.</p>
 
 <br /><br />
 
-- 🌱 I’m currently learning **TypeScript & Node js**
+- 🌱 I’m currently learning **SQL & DSA**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/AshrafElshaer?tab=repositories)
 
@@ -21,7 +21,7 @@ time and within budget.</p>
 
 - 📫 How to reach me **ashrafelshaer98@icloud.com** / [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashraf.elsha3er) / [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashrafelshaer)
 
-- 📄 Know about my experiences [Personal Site](https://www.ashrafelshaer.dev/)
+- 📄 Know about my experiences [Personal Site](https://www.ashrafelshaer.com/)
 
 <br />
 
