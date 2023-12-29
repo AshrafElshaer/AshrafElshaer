@@ -1,46 +1,21 @@
-<h1 align="center"> Ashraf Elshaer</h1>
-<p align="center">Experienced Front End Developer with
-React and Next.js skills, creating elegant
-and responsive user interfaces. A
-proactive problem solver. I thrive in fast-
-paced environments, delivering scalable
-and high-performance applications on
-time and within budget.</p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashraf Elshaer======================================================================================================================================Full-stack web developer------------------------A self-taught devoloper passionate about crafting seamless user experiences and staying ahead in the ever-evolving tech landscape. Let's build innovative solutions together !* 🌍  I'm based in Texas , US* 🖥️  See my portfolio at [ashrafelshaer.com](http://ashrafelshaer.com/)* ✉️  You can contact me at [ashrafelshaer98@icloud.com](mailto:ashrafelshaer98@icloud.com)* 🚀  I'm currently working on [Fx Research](http://fx-research.vercel.app/)* 🧠  I'm learning SQL* 🤝  I'm open to collaborating on Interesting projects
 
-<br />
+### Skills
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafelshaer&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafelshaer" /> </p>
 
-<br /><br />
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/AshrafElshaer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/AshrafElshaer98" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-- 🌱 I’m currently learning **SQL & DSA**
+### Badges
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/AshrafElshaer?tab=repositories)
+<b>My GitHub Stats</b>
 
-- 💬 Ask me about **JS / TS / React Js / Next Js**
+<a href="http://www.github.com/AshrafElshaer"><img src="https://github-readme-stats.vercel.app/api?username=AshrafElshaer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AshrafElshaer's GitHub stats" /></a>
 
-- 📫 How to reach me **ashrafelshaer98@icloud.com** / [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashraf.elsha3er) / [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashrafelshaer)
+<a href="http://www.github.com/AshrafElshaer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafElshaer&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- 📄 Know about my experiences [Personal Site](https://www.ashrafelshaer.com/)
-
-<br />
-
-# Tech Stack:
-
-<br />
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-<br />
-
-# GitHub Stats:
-
-<br />
-
-![](https://github-readme-stats.vercel.app/api?username=AshrafElshaer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AshrafElshaer&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafElshaer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="http://www.github.com/AshrafElshaer"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AshrafElshaer&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br />
 
