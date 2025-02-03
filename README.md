@@ -9,7 +9,7 @@ A self-taught devoloper passionate about crafting seamless user experiences and 
 *   🌍  I'm based in Texas , US
 *   🖥️  See my portfolio at [ashrafelshaer.com](http://ashrafelshaer.com/)
 *   ✉️  You can contact me at [ashrafelshaer98@icloud.com](mailto:ashrafelshaer98@icloud.com)
-*   🚀  I'm currently working on [Fx Research](http://fx-research.vercel.app/)
+*   🚀  I'm currently working on [Staff Optima](http://staffoptima.co/)
 *   🧠  I'm learning SQL
 *   🤝  I'm open to collaborating on Interesting projects
 
