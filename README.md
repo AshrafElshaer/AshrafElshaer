@@ -1,5 +1,3 @@
- <div align="center">
-
 # Hey, I'm Ashraf 👋
 
 ### Full-Stack Developer · Texas, USA
@@ -51,4 +49,3 @@ Self-taught developer passionate about clean code, great UX, and exploring new t
 
 <img src="https://komarev.com/ghpvc/?username=AshrafElshaer&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile views" />
 
-</div>
